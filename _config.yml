@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Minimal
+title: Ricardo Flosi
 email: ricardo.flosi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   "Este é uma demonstração de como funciona a ferramenta Jekyll"
-baseurl: "/minimal-blog" # the subpath of your site, e.g. /blog
-url: "http://www.site-corp.com" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 twitter_username: minimal-twitter
 github_username:  minimal-github
 
